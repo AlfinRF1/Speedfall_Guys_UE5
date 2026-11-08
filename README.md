@@ -84,7 +84,7 @@ Content/
 
 ---
 
-## 🚀 Cara Menjalankan Proyek (Getting Started)
+## 🚀 Cara Menjalankan Proyek
 
 ### Prasyarat:
 * **Unreal Engine 5.3** atau versi yang lebih baru.
@@ -98,7 +98,7 @@ Content/
    cd Speedfall-Guys-UE5
    ```
 
-2. **Pull Large Files (jika ada aset binary/mesh):**
+2. **Pull Large Files:**
    ```bash
    git lfs pull
    ```
@@ -119,4 +119,4 @@ Content/
 Hak cipta dilindungi undang-undang. Proyek ini dikembangkan untuk keperluan akademik dan portofolio pengembangan game (*Game Development*).
 
 ---
-*Dikembangkan dengan 💖 menggunakan Unreal Engine 5.*
+*Dikembangkan oleh AlFIN2GD menggunakan Unreal Engine 5.*
